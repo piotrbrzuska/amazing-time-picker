@@ -15,7 +15,7 @@ import { Subject } from 'rxjs';
 })
 
 export class AtpTimePickerComponent implements OnInit {
-  @ViewChild('container', { read: ViewContainerRef }) container: ViewContainerRef;
+  @ViewChild('container', { read: ViewContainerRef, static: false }) container: ViewContainerRef;
   @Output() timeSelected: EventEmitter<string> = new EventEmitter<string>();
   public config: TimePickerConfig = {};
 
