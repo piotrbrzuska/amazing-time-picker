@@ -1,7 +1,6 @@
-# Amazing Time Picker (Clock) ![Build Status](https://travis-ci.org/owsolutions/amazing-time-picker.svg?branch=master) [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+Forked from owsolutions/amazing-time-picker
 
 A visual time picker for angular 2+ projects. You can use this timepicker with Angular 2, 4, 5, 6, 7 and Angular Material. **This project doesn't require angular material or any other dependencies**
-
 
 ## Note: Please visit our booking service and give us some support!
 
@@ -9,6 +8,9 @@ We want to announce that we are working on another project, which is called "Rea
 users to build booking applications more fun and easier.
 
 https://github.com/pixelplux/react-booking
+
+## Angular 8 support since version 1.9.0
+
 
 ## Angular 6, 7 support since version 1.8.0
 After some delay we have now support for Angular 6+. Also you can install latest version on Angular 2 project as well and it's fully backward compatible.
